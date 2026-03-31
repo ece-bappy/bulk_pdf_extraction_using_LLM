@@ -1,0 +1,5 @@
+{
+  "name": "System Prompt Architect",
+  "description": "A dynamic builder for creating structured, domain-specific system prompts with JSON schema validation.",
+  "requestFramePermissions": []
+}
